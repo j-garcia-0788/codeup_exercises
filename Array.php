@@ -17,6 +17,6 @@ $test = [
 	'person3' => ['first_name' => "Ramon", "last_name" => 'Salinas', 'email' => "user@domain.com", 'phome_number' => '347-9580']
 ];
 
-echo var_dump($test);
+echo $test);
 
 ?>
